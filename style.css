@@ -1,0 +1,50 @@
+h2
+{
+    font-size: 19px;
+}
+ul
+{
+    font-size: 14px;
+}
+h1
+{
+    font-size: 35px;
+}
+h2
+{
+    text-align: center;
+}
+h1,h2
+{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+}
+h1,h2
+{
+    text-align:center ;
+}
+a:hover
+{
+    text-decoration: underline;
+    color:green
+}
+.page
+{
+    margin: auto;
+    width: 780px;
+    background-color: rgb(129, 129, 216);
+}
+a
+{
+    color: black;
+}
+body
+{
+    background-color: grey;
+    margin: auto;
+    padding: 10px;
+}
