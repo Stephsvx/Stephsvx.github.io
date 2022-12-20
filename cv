@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<link rel="stylesheet" href="style.css" />
+    <title>MON CV</title>
+</head>
+<body>
+    <div class="page">
+        <img src="image/moi.jpg" alt="photo de moi" /><br/>
+  <strong>Stéphane SAVREUX</strong><br/>
+  né le 04/02/1982<br/>
+  27 rue Ledien <br/>
+  80100 Abbeville<br/> 
+  Permis B<br>
+  06.83.14.65.53<br/>
+  <a href="mailto:tetef80100@gmail.com">tetef80100@gmail.com</a>
+  <p>
+    
+  </p>
+        <h1><en>DÉVELOPPEUR WEB</en></h1>
+         <h2><span class="expériences"> EXPÉRIENCES</span> PROFESSIONNELLES</h2>
+    
+  <p><ul>
+        <li>12/2022 03/2023 : <strong>Formation développement.net</strong>
+             ID formation Abbeville</li>
+         <li>09/2015 09/2022 : <strong>Agent commercial</strong>
+             Eplug Dury</li>
+         <li>10/2011 04/2015 : <strong>Télé-enquêteur</strong>
+             Médiametrie Amiens </li>
+         <li>01/2011 05/2011 : <strong>Préparateur de commandes</strong>
+    Easy logistique Argoeuvre</li>
+    <li>01/2010 12/2010 : <strong>Préparateur de commandes</strong>
+    Simply market Amiens</li>
+    <li>09/2007 11/2007 : <strong>Livreur de pizzas</strong>
+    Le napoli Abbeville</li>
+    <li>01/2003 12/2005 : <strong>Manoeuvre en carrelage</strong>
+    Ecp Amiens </li>
+  </ul></p>
+    
+        <h2 class="formations"> FORMATIONS</h2>
+    <p>
+<ul>
+    <li>2009 : <strong>BEP</strong> Logistique commercialisation</li>
+    <li>1998 : <strong>CAP</strong> Carrelage mosaïque</li>
+</ul>
+    </p>
+        <h2>COMPÉTENCES PROFESSIONNELLES</h2>
+    <p>
+<ol>
+    <li>Réaliser une enquête d'audience médiatique</li>
+    <li>Conseil client</li>
+    <li>Identifier les cibles d'une enquête</li>
+    <li>Prospection commerciale</li>
+    <li>Techniques de communication</li>
+    <li>Outils bureautiques</li>
+</ol>
+    </p>
+
+
+
+</body>
+</div>
+</html>
